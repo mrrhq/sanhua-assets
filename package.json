@@ -1,0 +1,24 @@
+{
+  "name": "@mrrhq/sanhua-assets",
+  "version": "0.0.0",
+  "private": true,
+  "description": "assets for SanHua AI",
+  "keywords": [
+    "favicon",
+    "ai",
+    "sanhua"
+  ],
+  "sideEffects": false,
+  "homepage": "https://github.com/mrrhq/sanhua-assets",
+  "bugs": {
+    "url": "https://github.com/mrrhq/sanhua-assets/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrrhq/sanhua-assets"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "bumpp": "^9.4.0"
+  }
+}
