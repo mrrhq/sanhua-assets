@@ -12,6 +12,8 @@ importers:
         specifier: ^9.4.0
         version: 9.4.0
 
+  packages/sanhua-favicon: {}
+
 packages:
 
   /@jsdevtools/ez-spawn@3.0.4:

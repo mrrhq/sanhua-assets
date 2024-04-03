@@ -9,5 +9,9 @@
   "sideEffects": false,
   "files": [
     "favicon"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
